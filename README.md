@@ -1,4 +1,4 @@
-# CRUD Data Siswa
+# Simple Student CRUD
 Simple Desktop Application built with Apache Netbeans with Model, View, ViewModel, Repository Architecture Pattern.
 
 ## Development Installation
